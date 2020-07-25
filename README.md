@@ -1,10 +1,13 @@
 # search_demo
 
-A new Flutter application.
+A search demo for flutter, user in this medium atricle 
+
+https://medium.com/@azozsahb99/implement-a-search-and-filter-in-flutter-56d046e12c05 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a demo application  Flutter search feature.
 
 A few resources to get you started if this is your first Flutter project:
 
